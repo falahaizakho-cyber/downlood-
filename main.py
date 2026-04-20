@@ -4,7 +4,7 @@ from flask import Flask
 from threading import Thread
 
 # --- زانیاریێن بۆتی ---
-API_TOKEN = "8643259960:AAEizSJj1TgwJNXxnU5fY_GO8HUAjP-I-M4"
+API_TOKEN = 8631109877:AAHFNwNoHJgeSGLUozS2choOiTc17ePqD1Q
 CHANNEL_ID = "@tech_ai_falah"
 CHANNEL_URL = "https://t.me/tech_ai_falah"
 bot = telebot.TeleBot(API_TOKEN)
